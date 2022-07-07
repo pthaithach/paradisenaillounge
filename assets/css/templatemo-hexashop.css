@@ -164,7 +164,7 @@ body {
   display: inline-block;
   font-weight: 600;
   transition: all .3s;
-  background: #4aa19d;
+  background: #257c25;
 }
 .color-gold a:hover{
   background: #fff !important;
@@ -174,7 +174,7 @@ body {
 }
 
 .main-border-button.color-gold a:hover {
-  background-color: #0c757a !important;
+  background-color: #1a661a !important;
   color: #fff;
 }
 
@@ -213,7 +213,7 @@ body {
     font-size: 30px;
     text-transform: uppercase;
     font-weight: 300;
-    color: #0c757a;
+    color: #1a661a;
     letter-spacing: 4px;
 }
 
@@ -258,7 +258,7 @@ header
 }
 
 .header-area {
-    background: #4aa19d;
+    background: #257c25;
   box-shadow: none;
   position: absolute;
   top: 0px;
@@ -270,7 +270,7 @@ header
   -moz-transition: all .5s ease 0s;
   -o-transition: all .5s ease 0s;
   transition: all .5s ease 0s;
-  border-bottom: 1px solid #5ba357;
+  border-bottom: 1px solid #56bf56;
 }
 
 .header-area .main-nav {
@@ -577,7 +577,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #4aa19d;
+    background-color: #257c25;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -760,7 +760,7 @@ banner
   bottom: 15px;
   text-align: center;
   /*background-color: rgba(197,166,43,.95);*/
-    background-color: #4aa19d;
+    background-color: #257c25;
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s;
@@ -911,9 +911,9 @@ Men
   content: '\f104';
   width: 50px;
   height: 50px;
-  background-color: #4aa19d;
+  background-color: #257c25;
   line-height: 48px;
-  border :1px solid #4aa19d;
+  border :1px solid #257c25;
 }
 
 #men .owl-nav .owl-prev {
@@ -949,9 +949,9 @@ Men
   content: '\f105';
   width: 50px;
   height: 50px;
-  background-color: #4aa19d;
+  background-color: #257c25;
   line-height: 48px;
-  border :1px solid #4aa19d;
+  border :1px solid #257c25;
 }
 
 
@@ -1234,9 +1234,9 @@ Kids
   content: '\f104';
   width: 50px;
   height: 50px;
-  background-color: #4aa19d;
+  background-color: #257c25;
   line-height: 48px;
-  border :1px solid #4aa19d;
+  border :1px solid #257c25;
 }
 
 #kids .owl-nav .owl-prev {
@@ -1272,9 +1272,9 @@ Kids
   content: '\f105';
   width: 50px;
   height: 50px;
-  background-color: #4aa19d;
+  background-color: #257c25;
   line-height: 48px;
-  border :1px solid #4aa19d;
+  border :1px solid #257c25;
 }
 
 
@@ -1297,7 +1297,7 @@ Explore
 #explore .left-content h2 {
   font-size: 30px;
   font-weight: 300;
-  color: #0c757a;
+  color: #1a661a;
     letter-spacing: 4px;
     text-transform: uppercase;
 }
@@ -1530,7 +1530,7 @@ Subscribe
 }
 
 .subscribe ul li span a:hover {
-  color: #0c757a;
+  color: #1a661a;
 }
 
 
@@ -1563,7 +1563,7 @@ footer ul li a {
 }
 
 footer ul li a:hover, footer ul li a:active {
-  color: #4aa19d;
+  color: #6ad36a;
 }
 
 footer h4 {
@@ -1601,11 +1601,11 @@ footer .under-footer p {
 }
 
 footer .under-footer a {
-  color: #4aa19d;
+  color: #257c25;
 }
 
 footer .under-footer a:hover {
-  color: #4edddd;
+  color: #6ad36a;
 }
 
 
@@ -2473,8 +2473,8 @@ body{
 }
 
 .booking-now-border{
-  border: 2px solid #4aa19d !important;
-  color: #4aa19d !important;
+  border: 2px solid #257c25 !important;
+  color: #257c25 !important;
   background: transparent  !important;
   border-radius: 3px;
   text-transform: uppercase;
@@ -2483,7 +2483,7 @@ body{
   display: inline-block;
 }
 .booking-now-border:hover{
-  background-color: #4aa19d !important;
+  background-color: #257c25 !important;
   color: white !important;
 }
 
